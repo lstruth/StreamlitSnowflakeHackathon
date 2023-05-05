@@ -9,4 +9,4 @@ In this mini-app you can have a detailed look at the development of some key mac
 
 This repository contains the code corresponding to the project.
 
-![app](https://github.com/lstruth/StreamlitSnowflakeHackathon/blob/main/partialAppView.PNG)
+![partialAppView](https://github.com/lstruth/StreamlitSnowflakeHackathon/blob/master/partialAppView.png)
