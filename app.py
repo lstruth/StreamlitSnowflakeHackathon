@@ -190,3 +190,4 @@ if __name__ == "__main__":
 
     # Horizontal bar at the bottom of the page
     st.markdown("""---""")
+    st.markdown("This app uses US economic data from [Knoema](https://knoema.com/atlas/topics/Economy) on [Snowflake Marketplace](https://www.snowflake.com/en/data-cloud/marketplace/) and OpenAI's GPT-3 based [Davinci model](https://beta.openai.com/docs/models/overview). The code can be found on [GitHub](https://github.com/lstruth/StreamlitSnowflakeHackathon/).")
