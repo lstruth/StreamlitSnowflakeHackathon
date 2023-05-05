@@ -153,7 +153,7 @@ if __name__ == "__main__":
     # New part of the page for ChatGPT
     st.subheader("Ask your favorite Economist!")
     st.markdown("""How about asking some of the most famous economists, or rather their ChatGPT sprits, about these economic variables and thereby get an view into the different schools of thoughts these economists represent?   
-                \n For example, ask Milton Friedman and John Maynard Keynes: _What is the role of the government in times of high inflation?_""")
+                \n For example, ask Milton Friedman and John Maynard Keynes: _What is the role of the government in times of high unemployment?_""")
     
     # Text field for the question
     question = st.text_input(label="Your question:", placeholder="Text")
